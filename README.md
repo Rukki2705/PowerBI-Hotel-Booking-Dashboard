@@ -4,14 +4,6 @@ This project is a Power BI dashboard designed to analyze hotel performance acros
 
 ---
 
-## 📊 Dashboard Highlights
-
-- **Total Revenue:** ₹1.71B
-- **RevPAR (Revenue per Available Room):** ₹7,347
-- **Occupancy Rate:** 57.87%
-- **ADR (Average Daily Rate):** ₹12,700
-- **Realisation %:** 24.83%
-- **Cancellation % and Ratings** tracked at property level
 
 ![Dashboard Preview](Screenshot/Dashboard.jpg)
 
